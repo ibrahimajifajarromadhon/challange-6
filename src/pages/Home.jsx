@@ -59,7 +59,7 @@ const Home = () => {
                                     </div>
                                 ))
                             ) : (
-                                <p>Daftar Film Kosong. Silakan Login Atau Register Untuk Melihat Daftar Film.</p>
+                                <p>Daftar Film Kosong!. Silakan Login Atau Register Untuk Melihat Daftar Film.</p>
                             )}
                         </div>
                     )}
